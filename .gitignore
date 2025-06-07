@@ -1,0 +1,7 @@
+Code-en/
+Code-zh/
+*.exe
+*.zip
+__pycache__/
+venv/
+*.spec
