@@ -58,6 +58,6 @@ This project is developed with ❤️ and is inspired by the great tools from th
 ---
 <div align="center">
 
-**🔓 Open sourcing the code if this project gets over 50 stars! ⭐**
+**⭐ The project is open source code! ⭐**
 
 </div>
